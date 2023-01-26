@@ -11,6 +11,8 @@ psycopg2 = "*"
 djangorestframework = "*"
 djangorestframework-jwt = "*"
 pyjwt = "*"
+django-cors-headers = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 
