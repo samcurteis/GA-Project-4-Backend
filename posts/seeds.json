@@ -1,0 +1,84 @@
+[
+{
+  "model": "posts.post",
+  "pk": 1,
+  "fields": {
+    "author": 1,
+    "title": "post title",
+    "content": "Post content",
+    "created_at": "2023-01-25T13:09:40.108Z",
+    "post_likes": [
+      1
+    ],
+    "post_favorites": [
+      1
+    ]
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 2,
+  "fields": {
+    "author": 1,
+    "title": "another post",
+    "content": "more content",
+    "created_at": "2023-01-25T13:10:12.725Z",
+    "post_likes": [],
+    "post_favorites": [
+      1
+    ]
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 3,
+  "fields": {
+    "author": 1,
+    "title": "one more post",
+    "content": "yet more content",
+    "created_at": "2023-01-25T13:10:30.456Z",
+    "post_likes": [],
+    "post_favorites": []
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 4,
+  "fields": {
+    "author": 1,
+    "title": "auipgaerbgvuop",
+    "content": "eqrobwerovibwr",
+    "created_at": "2023-01-25T17:21:01.765Z",
+    "post_likes": [],
+    "post_favorites": []
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 5,
+  "fields": {
+    "author": 1,
+    "title": "most recent post",
+    "content": "some data for the most recent post",
+    "created_at": "2023-01-26T08:05:10.101Z",
+    "post_likes": [],
+    "post_favorites": []
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 6,
+  "fields": {
+    "author": 1,
+    "title": "here's a title",
+    "content": "here's some content",
+    "created_at": "2023-01-26T13:10:03.664Z",
+    "post_likes": [
+      1
+    ],
+    "post_favorites": [
+      1
+    ]
+  }
+}
+]
