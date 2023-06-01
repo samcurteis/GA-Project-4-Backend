@@ -159,3 +159,4 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 django_on_heroku.settings(locals())
+DATABASES['default']['CONN_MAX_AGE'] = 0
